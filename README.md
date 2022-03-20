@@ -6,8 +6,18 @@
 <h1>Este readme tem por finalidade consolidar os aprendizados a respeito do Readme e da criação de novas branches</h1>
 
 <p>Na segunda aula foi exposto uma situação problema a respeito de uma revisão de Programação orientada a objetos
-envolvendo classes, métodos, getters and setters</p>
+envolvendo classes, métodos, getters and setters. Para consolidar ainda mais os aprendizados foi solicitado um exercício
+a respeito de 3 classes: caminhão, veículo e ônibus</p>
+
+<p>Na terceira aula a fim de consolidar ainda mais o aprendizado da linguagem javascript foi disponibilizado uma situação
+problema para que fosse realizado a entrega de um exercício envolvendo a criação de uma calculadora móvel</p>
 
 - [x] Exercício 1 Concluído (análise do Readme)
-- [x] Exercício 2 - Entregue a monitora
+- [x] Exercício 2 - Entregue a monitora 
 - [x] Exercício 3 - Entregue a monitora
+- [x] Exercício 4 - disponibilizado link
+
+<h1>Funcionalidades</h>
+
+<p>Para ambos exercícios não é necessário a instalação de vários softwares para que seja executados os exercícios. 
+Isso ocorre pois ambos que utilizam a linguagem javascript são usados durante a explicação da monitora Rafaela</h>
