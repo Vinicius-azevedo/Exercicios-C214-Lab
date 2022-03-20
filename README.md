@@ -20,4 +20,4 @@ problema para que fosse realizado a entrega de um exercício envolvendo a criaç
 <h1>Funcionalidades</h>
 
 <p>Para ambos exercícios não é necessário a instalação de vários softwares para que seja executados os exercícios. 
-Isso ocorre pois ambos que utilizam a linguagem javascript são usados durante a explicação da monitora Rafaela</h>
+Isso ocorre pois ambos que utilizam a linguagem javascript são usados durante a explicação da monitora Rafaela</p>
