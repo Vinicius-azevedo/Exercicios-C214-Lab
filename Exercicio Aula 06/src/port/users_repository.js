@@ -28,7 +28,7 @@ const UsersRepository = {
 
     async delete(data) {
         try {
-            const result = await UsersModel.deleteOne({ forca: data.forca }).exec();
+            const result = await UsersModel.deleteOne({ forca: data.poder }).exec();
             return result.deletedCount;
         } catch (error) {
             return error;
