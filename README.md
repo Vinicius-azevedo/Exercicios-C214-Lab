@@ -11,12 +11,12 @@ Para que seja iniciado o código devemos instalar as dependências dos exercíci
 npm install</b> a partir disso temos todas as dependências instaladas.
 </p>
 
-<font color="green">Funcionalidades</font>
+## Funcionalidades
 <p>
 A finalidade dos exercícios foi criar um CRUD -> CREATE, UPDATE, DELETE, LIST usando o mongo DB no javascript
 </p>
 
-<font color="red">Fontes</font>
+## Fontes 
 <p>
 Todas as fontes foram utilizadas do mongodb -> https://www.mongodb.com
 Além disso foi usado o postman (API) -> https://www.postman.com
